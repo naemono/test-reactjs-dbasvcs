@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Steps to get started
+
+```bash
+npx create-react-app myreactapp
+cd myreactapp
+yarn add react-bootstrap@2.0.0-beta.2
+touch src/components/accountsTable.js
+touch App.js
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
